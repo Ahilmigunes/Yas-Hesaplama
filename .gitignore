@@ -1,2 +1,2 @@
-  yil=int(input(" Doğum Tarihinizi Giriniz: "))
+yil=int(input(" Doğum Tarihinizi Giriniz: "))
 print("Yaşınız:", 2022-yil)
